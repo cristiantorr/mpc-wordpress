@@ -1,0 +1,22 @@
+
+{
+  "name": "02-wordpress",
+  "version": "1.0.0",
+  "description": "Mcp para wordpress",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0",
+    "tsc": "^2.0.4",
+    "zod": "^3.24.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "i": "^0.3.7"
+  }
+}

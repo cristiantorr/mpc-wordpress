@@ -36,6 +36,7 @@ const response = await fetch(`${blogUrl}/wp-json/wp/v2/posts?per_page=10`, {
     'Authorization': `Bearer ${token}`
   }
 });
+
 */
 
 // 1. Crear el servidor

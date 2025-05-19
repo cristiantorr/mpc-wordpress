@@ -28,7 +28,7 @@ npm install
 La herramienta puede ser utilizada para obtener información de cualquier sitio WordPress. Ejemplo de uso:
 
 ```typescript
-const blogUrl = "https://ejemplo-sitio-wordpress.com";
+const blogUrl = "https://ejemplo-sitio-wordpress.com" ;
 ```
 
 La herramienta devolverá información sobre:

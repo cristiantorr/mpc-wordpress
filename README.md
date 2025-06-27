@@ -11,7 +11,7 @@ Este proyecto proporciona una herramienta para obtener información de sitios we
 - Organiza la información en un formato estructurado
 - Incluye manejo de errores para sitios inaccesibles
 
-## Tecnologías Utilizadas para
+## Tecnologías Utilizadas para app
 - Node.js
 - TypeScript
 - SDK de Model Context Protocol (MCP)

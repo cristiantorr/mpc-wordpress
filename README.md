@@ -1,7 +1,7 @@
 # WordPress URL Information Tool
 
 
-## Descripción de p
+## Descripción del proyecto
 Este proyecto proporciona una herramienta para obtener información de sitios web WordPress a través de su API REST. Permite a los usuarios obtener y mostrar información estructurada sobre páginas, publicaciones y otros tipos de contenido de cualquier sitio WordPress que tenga la API REST habilitada.
 
 ## Características

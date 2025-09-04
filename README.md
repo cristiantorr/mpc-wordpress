@@ -1,17 +1,17 @@
-# WordPress URL Information Tool
+# WordPress URL Information Tool mcp IA
 
 
-## Descripción
+## Descripción del proyecto
 Este proyecto proporciona una herramienta para obtener información de sitios web WordPress a través de su API REST. Permite a los usuarios obtener y mostrar información estructurada sobre páginas, publicaciones y otros tipos de contenido de cualquier sitio WordPress que tenga la API REST habilitada.
 
-## Características
+## Características de la app
 - Obtiene información de páginas de sitios WordPress
 - Muestra información de productos si está disponible
 - Muestra fechas de última modificación del contenido
 - Organiza la información en un formato estructurado
 - Incluye manejo de errores para sitios inaccesibles
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas para app
 - Node.js
 - TypeScript
 - SDK de Model Context Protocol (MCP)
@@ -28,7 +28,7 @@ npm install
 La herramienta puede ser utilizada para obtener información de cualquier sitio WordPress. Ejemplo de uso:
 
 ```typescript
-const blogUrl = "https://ejemplo-sitio-wordpress.com";
+const blogUrl = "https://ejemplo-sitio-wordpress.com" ;
 ```
 
 La herramienta devolverá información sobre:

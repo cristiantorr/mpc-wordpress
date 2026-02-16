@@ -1,4 +1,4 @@
-# WordPress URL Information Tool mcp IA
+# WordPress URL Information Tool mcp
 
 
 ## Descripción del proyecto
